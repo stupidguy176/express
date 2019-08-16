@@ -1,0 +1,27 @@
+{
+  "name": "mongo-express",
+  "version": "1.0.0",
+  "description": "demo resful api mongodb with express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "is it okay?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupidguy176/express.git"
+  },
+  "keywords": [
+    "mongodb"
+  ],
+  "author": "ngungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupidguy176/express/issues"
+  },
+  "homepage": "https://github.com/stupidguy176/express#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
+  }
+}
